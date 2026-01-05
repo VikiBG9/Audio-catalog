@@ -1,0 +1,6 @@
+SONG|Hello|Adele|POP|312|2012-08-11
+ALBUM|Pink Friday 2|Nicki Minaj|HIPHOP|1000|17|2023-11-24
+PODCAST|Just Trish|Trisha Paytas, Moses Hackmon, Oscar Wilde|COMEDY|600|2023-12-13
+SONG|Bloodwash|Viktor|ROCK|356|2002-12-03
+SONG|Ariana Grande|Ariana Grande|KPOP|362|2020-09-24
+PLAYLIST|Relaxing music|Viktor K|CHILL|1|2026-01-05|hello~adele~2012-08-11
