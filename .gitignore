@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled output
+out/
+target/
+
+# OS files
+.DS_Store
+
+# Runtime data
+data/catalog.txt
